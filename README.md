@@ -30,7 +30,7 @@ The activities include:
 
 ## <h2 id="header-1">Semiconductor Packaging</h2>
 
-![image1]<img width="477" height="357" alt="image" src="https://github.com/user-attachments/assets/7fdecd58-bb1d-4ac7-a5ba-5e53db9350a3" />
+[image1]<img width="477" height="357" alt="image" src="https://github.com/user-attachments/assets/7fdecd58-bb1d-4ac7-a5ba-5e53db9350a3" />
 
 
 
