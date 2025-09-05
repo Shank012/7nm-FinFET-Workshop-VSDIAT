@@ -30,7 +30,7 @@ The activities include:
 
 ## <h2 id="header-1">Introduction</h2>
 
-<img width="477" height="357" alt="image1" src="https://github.com/user-attachments/assets/7fdecd58-bb1d-4ac7-a5ba-5e53db9350a3" />
+[Image1](<img width="477" height="357" alt="image" src="https://github.com/user-attachments/assets/7fdecd58-bb1d-4ac7-a5ba-5e53db9350a3" />)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -40,6 +40,6 @@ The activities include:
 ---------------------------------------------------------------------------------------------------------------------------
 ## <h2 id="header-3">Lab-2 Designing Bandgap Circuit</h2>
 
-<img width="477" height="357" alt="image2" src="https://github.com/user-attachments/assets/959ac686-37bb-495a-bcb7-96e85f420300" />
+<img width="477" height="357" alt="image" src="https://github.com/user-attachments/assets/959ac686-37bb-495a-bcb7-96e85f420300" />
 
 
