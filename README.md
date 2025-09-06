@@ -1,4 +1,4 @@
-![Inverter_finfet](https://github.com/user-attachments/assets/e5fc5ed7-d484-4ef8-8f20-e51a71e3260f)# FinFET Circuit Design & Characterization
+# FinFET Circuit Design & Characterization
 The repository is about the 7nm FinFET Workshop offered by VSD.
 It contains the details about the 7nm ASAP FinFET.
 
@@ -48,6 +48,9 @@ The activities include:
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <h2 id="header-3">Lab-2 Designing Bandgap Circuit</h2>
+
+Resistance value as per ASCII username = 817ohm
+![Bandgap_sch](https://github.com/user-attachments/assets/f187c875-cef7-49fc-8806-2925a9303015)
 
 ![TEMP_BGR](https://github.com/user-attachments/assets/446e9db9-6d9c-45a4-b064-61af3824fece)
 
