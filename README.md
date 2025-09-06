@@ -475,7 +475,7 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 
 ![Line Reg_BGR](https://github.com/user-attachments/assets/318125cb-205d-4664-a76e-4ee0f7fe7745)
 
-![Startup_time](https://github.com/user-attachments/assets/fbdaf536-9f4e-4d24-81eb-9b0d3378726b)
+![Transient_startup_time](https://github.com/user-attachments/assets/76f3913e-a83d-4f11-a5d4-318808dff1a8)
 
 ![Assignment2](https://github.com/user-attachments/assets/a254269e-9b79-4c08-8afb-14ae5b6a3fbf)
 
