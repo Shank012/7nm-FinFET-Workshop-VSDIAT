@@ -265,7 +265,9 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 ![Inverter_finfet_sch](https://github.com/user-attachments/assets/c4a732b0-a32c-47ea-b30c-f08571ee5423)
 
 ![Inverter_finfet](https://github.com/user-attachments/assets/922a81d6-e71a-4be0-b2f5-880b0d371f6a)
-Unqiue voltage value 817ohm as per ASCII username
+
+![NMH](https://github.com/user-attachments/assets/ac4d416c-89c6-4f07-88a5-49e4fb9d4d83)
+
 ![VTC_817](https://github.com/user-attachments/assets/35ed3782-4c25-4cff-8ad0-12e99dbd5d8e)
 
 ![Assignment1](https://github.com/user-attachments/assets/521b00df-6ef2-4841-8d99-6a7f7c745c3e)
