@@ -312,6 +312,7 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 .end
 ```
 
+The following image shows the schematic diagram of inverter in Xschem.
 ![Inverter_finfet_sch](https://github.com/user-attachments/assets/c4a732b0-a32c-47ea-b30c-f08571ee5423)
 
 ![Inverter_finfet](https://github.com/user-attachments/assets/922a81d6-e71a-4be0-b2f5-880b0d371f6a)
