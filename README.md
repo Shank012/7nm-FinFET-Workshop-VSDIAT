@@ -278,6 +278,8 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 Resistance value as per ASCII username = 817ohm
 ![Bandgap_sch](https://github.com/user-attachments/assets/f187c875-cef7-49fc-8806-2925a9303015)
 
+Spice file for Bandgap circuit with Unqiue value used for R2 resistor
+
 ```
 ** sch_path: /home/vsduser/Desktop/Bandgap-Reference-Circuit-with-SCMB-with-ASAP-7nm-PDK-/Bandgap.sch
 **.subckt Bandgap
@@ -297,7 +299,7 @@ Xnfet7 net8 net8 GND GND asap_7nm_nfet l=7e-009 nfin=14
 Xnfet8 net8 net8 GND GND asap_7nm_nfet l=7e-009 nfin=14
 Xnfet9 net8 net8 GND GND asap_7nm_nfet l=7e-009 nfin=14
 R1 net9 net8 33k ac=1k m=1
-R2 Vref Vctat 50k ac=1k m=1
+R2 Vref Vctat 817 ac=1k m=1
 Xnfet10 Vctat Vctat GND net21 asap_7nm_nfet l=7e-009 nfin=14
 V2 vdd GND 1.75
 
@@ -472,6 +474,8 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 ![TEMP_BGR](https://github.com/user-attachments/assets/446e9db9-6d9c-45a4-b064-61af3824fece)
 
 ![Line Reg_BGR](https://github.com/user-attachments/assets/318125cb-205d-4664-a76e-4ee0f7fe7745)
+
+![Startup_time](https://github.com/user-attachments/assets/fbdaf536-9f4e-4d24-81eb-9b0d3378726b)
 
 ![Assignment2](https://github.com/user-attachments/assets/a254269e-9b79-4c08-8afb-14ae5b6a3fbf)
 
