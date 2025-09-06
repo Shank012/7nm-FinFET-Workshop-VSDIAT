@@ -34,7 +34,8 @@ The activities include:
 
 FinFET (Fin Field-Effect Transistor) is a type of 3D transistor used in modern CMOS technology nodes (typically < 22nm).
 Unlike traditional planar MOSFETs, where the channel lies flat on the substrate, FinFET transistors have a thin, vertical silicon fin that sticks up from the substrate, and the gate wraps around three sides of the fin. By surrounding the channel on multiple sides, the gate gets better electrostatic control over the channel → less leakage, faster switching, and lower power consumption.
-ADD IMAGE
+
+![Transistor_Evolution](https://github.com/user-attachments/assets/57e4d234-9d75-4499-afcc-924bfa586add)
 
 | **Feature**           | **Planar MOSFET**  | **FinFET** (3D MOSFET)             |
 | --------------------- | ------------------ | ---------------------------------- |
