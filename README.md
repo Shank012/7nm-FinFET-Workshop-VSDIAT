@@ -531,12 +531,13 @@ The following image shows the Vref value at different temperatures for 1v VDD su
 
 The image shows the Line Reg. (mV/V).
 To measure it we have used the following commands
-``
-.measure dc VREF_MAX MAX v(Vref) 
-
-.measure dc VREF_MIN MIN v(Vref)  
+```
+.measure dc VREF_MAX MAX v(Vref)
+.measure dc VREF_MIN MIN v(Vref)
 .measure dc LINE_REG PARAM='(VREF_MAX - VREF_MIN)/(0.9-0.7)*1000
-``
+
+```
+
 ![Line Reg_BGR](https://github.com/user-attachments/assets/318125cb-205d-4664-a76e-4ee0f7fe7745)
 
 The following image shows the transient analysis and startup time waveform.
