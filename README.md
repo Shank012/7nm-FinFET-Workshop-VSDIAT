@@ -525,13 +525,22 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 .end
 ```
 
-
+The following image shows the Vref value at different temperatures for 1v VDD supply. 
 ![TEMP_BGR](https://github.com/user-attachments/assets/446e9db9-6d9c-45a4-b064-61af3824fece)
 
+The image shows the Line Reg. (mV/V).
+To measure it we have used the following commands
+`
+.measure dc VREF_MAX MAX v(Vref)
+.measure dc VREF_MIN MIN v(Vref)
+.measure dc LINE_REG PARAM='(VREF_MAX - VREF_MIN)/(0.9-0.7)*1000
+`
 ![Line Reg_BGR](https://github.com/user-attachments/assets/318125cb-205d-4664-a76e-4ee0f7fe7745)
 
+The following image shows the transient analysis and startup time waveform.
 ![Transient_startup_time](https://github.com/user-attachments/assets/76f3913e-a83d-4f11-a5d4-318808dff1a8)
 
+The image shows the results for different paramaters.
 ![Assignment2](https://github.com/user-attachments/assets/a254269e-9b79-4c08-8afb-14ae5b6a3fbf)
 
 
