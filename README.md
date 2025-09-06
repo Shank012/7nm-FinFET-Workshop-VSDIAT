@@ -36,7 +36,7 @@ The activities include:
 ## <h2 id="header-2">Lab-1 FinFET Inverter</h2>
 
 Spice file for FinFET Inverter with unique voltage value
-`
+```
 ** sch_path: /home/vsduser/Desktop/asap_7nm_Xschem/inverter_vtc.sch
 **.subckt inverter_vtc
 Xpfet1 nfet_out nfet_in vdd vdd asap_7nm_pfet l=7e-009 nfin=13
@@ -260,7 +260,8 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 
 **** end user architecture code
 .end
-`
+```
+
 ![Inverter_finfet_sch](https://github.com/user-attachments/assets/c4a732b0-a32c-47ea-b30c-f08571ee5423)
 
 ![Inverter_finfet](https://github.com/user-attachments/assets/922a81d6-e71a-4be0-b2f5-880b0d371f6a)
