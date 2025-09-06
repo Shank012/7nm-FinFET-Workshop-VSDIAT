@@ -55,9 +55,7 @@ A Bandgap Reference Voltage (Vref) is a temperature-independent, stable DC volta
 For silicon-based ICs, this reference voltage is typically around: 𝑉ref≈1.2V
 
 Why 1.2V?
-
 Because the bandgap energy of silicon is approximately 1.12 eV at room temperature (~27 °C). By designing the circuit carefully, we generate a voltage proportional to this energy, giving us a nearly constant Vref across temperature, supply, and process variations.
-
 When we integrate a Self-Biased Current Mirror (SBCM), the circuit becomes more stable and self-regulating.
 
 | **Feature**       | **Traditional Bandgap** | **Bandgap with SBCM** |
