@@ -30,7 +30,6 @@ The activities include:
 
 ## <h2 id="header-1">Introduction</h2>
 
-![Image1](<img width="477" height="357" alt="image" src="https://github.com/user-attachments/assets/7fdecd58-bb1d-4ac7-a5ba-5e53db9350a3" />)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -40,8 +39,7 @@ The activities include:
 ![Inverter_finfet_sch](https://github.com/user-attachments/assets/c4a732b0-a32c-47ea-b30c-f08571ee5423)
 
 ![Inverter_finfet](https://github.com/user-attachments/assets/922a81d6-e71a-4be0-b2f5-880b0d371f6a)
-
-
+Unqiue voltage value 817ohm as per ASCII username
 ![VTC_817](https://github.com/user-attachments/assets/35ed3782-4c25-4cff-8ad0-12e99dbd5d8e)
 
 ![Assignment1](https://github.com/user-attachments/assets/521b00df-6ef2-4841-8d99-6a7f7c745c3e)
