@@ -275,10 +275,10 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 ---------------------------------------------------------------------------------------------------------------------------
 ## <h2 id="header-3">Lab-2 Designing Bandgap Circuit</h2>
 
-Resistance value as per ASCII username = 817ohm
+Resistance value as per ASCII name = 817ohm
 ![Bandgap_sch](https://github.com/user-attachments/assets/f187c875-cef7-49fc-8806-2925a9303015)
 
-Spice file for Bandgap circuit with Unqiue value used for R2 resistor
+Spice file for Bandgap circuit with Unqiue resistance value used for R2 resistor
 
 ```
 ** sch_path: /home/vsduser/Desktop/Bandgap-Reference-Circuit-with-SCMB-with-ASAP-7nm-PDK-/Bandgap.sch
@@ -480,5 +480,10 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 ![Assignment2](https://github.com/user-attachments/assets/a254269e-9b79-4c08-8afb-14ae5b6a3fbf)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------  
+## <h2 id="header-4">Acknowledgements</h2>
 
+[Kunal Ghosh](https://github.com/kunalg123)
+ 
+[Soundarya Madhuri Royyuru](https://github.com/RSMadhuri66/Bandgap-Reference-Circuit-with-SCMB-with-ASAP-7nm-PDK-)
 
