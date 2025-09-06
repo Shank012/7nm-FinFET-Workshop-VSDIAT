@@ -30,6 +30,27 @@ The activities include:
 
 ## <h2 id="header-1">Introduction</h2>
 
+**What is FinFET?**
+FinFET (Fin Field-Effect Transistor) is a type of 3D transistor used in modern CMOS technology nodes (typically < 22nm).
+Unlike traditional planar MOSFETs, where the channel lies flat on the substrate, FinFET transistors have a thin, vertical silicon fin that sticks up from the substrate, and the gate wraps around three sides of the fin. By surrounding the channel on multiple sides, the gate gets better electrostatic control over the channel → less leakage, faster switching, and lower power consumption.
+ADD IMAGE
+
+| **Feature**           | **Planar MOSFET**  | **FinFET** (3D MOSFET)             |
+| --------------------- | ------------------ | ---------------------------------- |
+| **Structure**         | Flat channel       | Vertical fin-shaped channel        |
+| **Gate Control**      | Gate on **1 side** | Gate on **3 sides**                |
+| **Leakage Current**   | High at <32nm      | Very low                           |
+| **Performance**       | Limited scaling    | Higher speed, better Ion           |
+| **Power Consumption** | Higher             | Lower                              |
+| **Technology Node**   | Used ≥ 45nm        | Used ≤ 22nm (Intel, TSMC, Samsung) |
+| **SCE Resistance**    | Poor               | Excellent                          |
+
+FinFETs are industry standard for 22nm, 16nm, 10nm, 7nm, 5nm, and 3nm nodes. At 3nm and below, even FinFET starts struggling.
+The next-gen solution is Gate-All-Around FET (GAAFET), where the gate completely surrounds the channel.
+
+**What is Bandgap Circuit?**
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------
